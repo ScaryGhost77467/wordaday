@@ -2,43 +2,43 @@ document.addEventListener("DOMContentLoaded", function () {
     // Array of words, descriptions, and pronunciations for each day of the week
     const words = [
         {
-			//Sunday
+            //Sunday
             word: "walk-on",
             description: "1 A minor role in which the actor has no speaking lines.",
             pronunciation: "ˈwok'on'"
         },
         {
-			//Monday
+            //Monday
             word: "Ungula",
             description: "1 A hoof 2 A claw.",
             pronunciation: "ˈun-gyoo-le"
         },
         {
-			//Tuesday
+            //Tuesday
             word: "Speculum",
             description: "1 A mirror, especially one of polished metal used as a reflector in a telescope.",
             pronunciation: "ˈspek'yoo-lem"
         },
         {
-			//Wednesday
+            //Wednesday
             word: "rusk",
             description: "1 A piece of sweet, raised bread or cake toasted in an oven.",
             pronunciation: "ˈrusk"
         },
         {
-			//Thursday
+            //Thursday
             word: "Quip",
             description: "A witty or sarcastic expression.",
             pronunciation: "ˈkwip"
         },
         {
-			//Friday
+            //Friday
             word: "Neuritis",
             description: "1 Inflammation of a nerve or nerves. 2 With pain and muscle tenderness.",
             pronunciation: "ˈnoo-ri-tis"
         },
         {
-			//Saturday
+            //Saturday
             word: "Obfuscate",
             description: "1 To darken. 2 To confuse 3 bewilder",
             pronunciation: "ˈob-fus-kat"

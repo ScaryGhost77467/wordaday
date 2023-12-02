@@ -5,17 +5,17 @@ body {
 	padding: 20px;
 	margin: 50px;
 }
+
 h2 {
 	text-align: center;
 }
+
 h3 {
 	text-align: center;
 }
+
 h5 {
-	text-align: bottom right;
 	color: gray;
-}
-.word-container {
 }
 
 #MainDiv {
