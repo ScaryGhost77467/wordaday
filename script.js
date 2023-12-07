@@ -33,9 +33,9 @@ document.addEventListener("DOMContentLoaded", function () {
         },
         {
             //Friday
-            word: "Neuritis",
-            description: "1 Inflammation of a nerve or nerves. 2 With pain and muscle tenderness.",
-            pronunciation: "ˈnoo-ri-tis"
+            word: "haven",
+            description: "1 Harbor, port. 2 A place of safety, refuge. ",
+            pronunciation: "hay-ven"
         },
         {
             //Saturday
