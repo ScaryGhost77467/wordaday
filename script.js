@@ -3,33 +3,33 @@ document.addEventListener("DOMContentLoaded", function () {
     const words = [
         {
             //Sunday
-            word: "walk-on",
-            description: "1 A minor role in which the actor has no speaking lines.",
-            pronunciation: "ˈwok'on'"
+            word: "re-hash",
+            description: "1 To talk over or discuss again 2 to present or use again in another form without substantial change or improvement.",
+            pronunciation: "'re-,hash"
         },
         {
             //Monday
-            word: "Ungula",
-            description: "1 A hoof 2 A claw.",
-            pronunciation: "ˈun-gyoo-le"
+            word: "May-Day",
+            description: "1 an international radio-telephone signal word used as a distress call.",
+            pronunciation: "'mae-dae"
         },
         {
             //Tuesday
-            word: "Speculum",
-            description: "1 A mirror, especially one of polished metal used as a reflector in a telescope.",
-            pronunciation: "ˈspek'yoo-lem"
+            word: "Dobro",
+            description: "1 used for an accoustic guitar having a metal resonator.",
+            pronunciation: "do-bro"
         },
         {
             //Wednesday
-            word: "rusk",
-            description: "1 A piece of sweet, raised bread or cake toasted in an oven.",
-            pronunciation: "ˈrusk"
+            word: "cropper",
+            description: "1 A severe fall. 2 a sudden failure or collapse.",
+            pronunciation: "cro-p-per"
         },
         {
             //Thursday
-            word: "Quip",
-            description: "A witty or sarcastic expression.",
-            pronunciation: "ˈkwip"
+            word: "Continental Drift",
+            description: "A slow movement of the continents on a deep-seated viscous zone within the earth.",
+            pronunciation: "kon-tin-ent-al dru-fte"
         },
         {
             //Friday
@@ -39,9 +39,9 @@ document.addEventListener("DOMContentLoaded", function () {
         },
         {
             //Saturday
-            word: "Obfuscate",
-            description: "1 To darken. 2 To confuse 3 bewilder",
-            pronunciation: "ˈob-fus-kat"
+            word: "posh",
+            description: "1 Elegant, fashionable. 2 Typical or intended for the upper classes.",
+            pronunciation: "ˈ'pash"
         }
     ];
 
